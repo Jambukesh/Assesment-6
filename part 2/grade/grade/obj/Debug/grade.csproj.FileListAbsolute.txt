@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\bin\Debug\grade.exe.config
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\bin\Debug\grade.exe
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\bin\Debug\grade.pdb
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\obj\Debug\grade.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\obj\Debug\grade.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\obj\Debug\grade.exe
+D:\mphasis\problem statement\days\day5\part 2\grade\grade\obj\Debug\grade.pdb
